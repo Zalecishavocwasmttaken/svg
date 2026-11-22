@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"><foreignObject width="100%" height="100%"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content" /><title>Home - Classroom</title><meta name="description" content="IXL is the world's most popular subscription-based learning site. Used by over 18 million students, IXL provides unlimited practice in more than 8,000 maths, English and science topics. Interactive questions, awards and certificates keep kids motivated as they master skills." /><meta property="og:title" content="IXL | Maths, English and Science Practice" /><meta property="og:description" content="IXL is the world's most popular subscription-based learning site. Used by over 18 million students, IXL provides unlimited practice in more than 8,000 maths, English and science topics. Interactive questions, awards and certificates keep kids motivated as they master skills." /><meta property="og:type" content="website" /><meta property="og:site_name" content="IXL Learning" /><meta property="og:image" content="https://bikesense.org/og-ixl.png" /><meta property="og:image" content="https://bikesense.org/og-ixl-math.png" /><meta property="og:image" content="https://bikesense.org/og-ixl-ela.png" /><meta property="og:image" content="https://bikesense.org/og-ixl-square.png" /><link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" /><link href="https://fonts.googleapis.com/css2?family=Hurricane&amp;family=Inter:wght@400;500;600&amp;family=Roboto:wght@400;500&amp;display=swap" rel="stylesheet" /><style>html,body,#root{margin:0;width:100%;height:100%;overflow:hidden}</style><script><![CDATA[
+          (function () {
+            const XHTML_NS = 'http://www.w3.org/1999/xhtml';
+            const root = document.querySelector('foreignObject').firstElementChild;
+            const createElementNS = document.createElementNS.bind(document);
+            Object.defineProperty(document, 'head', { get: () => root.querySelector('head'), configurable: true });
+            Object.defineProperty(document, 'body', { get: () => root.querySelector('body'), configurable: true });
+            Object.defineProperty(document, 'documentElement', { get: () => root, configurable: true });
+            document.createElement = function (tagName, options) {
+              return createElementNS(XHTML_NS, tagName, options);
+            };
+          })();
+        ]]></script><script><![CDATA[(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MHGMH3D5');]]></script><script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-LP4D7PRDTK"></script><script><![CDATA[window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-LP4D7PRDTK',window.__achromaPV?{send_page_view:false}:{});]]></script></head><body><div id="root"></div><!-- Only prodsvg (pushed to achroma-ubg/svg by scripts/push-prodsvg.sh)
+             actually has this file — it sets window.__ACHROMA_BUILD_COMMIT__
+             to that push's commit hash, read by HomeStatus.jsx. Missing here
+             (svg/, svg/latest/, this repo's own VPS copy) 404s harmlessly;
+             there's no meaningful "commit" for files that were just rsynced. --><script src="build-info.js"></script><script src="nochat.js"></script><script><![CDATA[
+  (function () {
+    var LINKS = [
+      'https://arwf.org/4/3f333aa8451d1afba4ab71aee49405b9',
+      'https://directyp.org/4/303b7b47c41b9cb5149eafd23d98d50f',
+      'https://araplhn.org/4/4ba87532a283c37e4bc52f79c3917682',
+      'https://araplhn.org/4/d372c2b9b4a9643ef76a15038f54d855',
+      'https://araplhn.org/4/c0aa38b369432cbfa103b5b5122fb750',
+      'https://araplhn.org/4/950a0fd28d72e3a630d3266e6d2df70e',
+      'https://budgetezy.org/4/e62021aaf9b70e01d7a85dde05604878',
+      'https://araplhn.org/4/41deb6b9eb4f081a72f4a52b5a81ab25',
+      'https://ardance.org/4/c536caf7a761d0073de3e0d765641b4e',
+      'https://budgetezy.org/4/1249cf31555f5a19c2f09a79d93e7d4d',
+      'https://araplhn.org/4/4b2853c0aa21597b6e87d5202b891cd1',
+      'https://araplhn.org/4/d2a3ff3739ac5065aa0bf91099411119',
+      'https://araplhn.org/4/d4b3ac27cb1feb7f922caef977b20052',
+      'https://demper.org/4/1e812b81826320cda27e77f798e603db',
+      'https://araplhn.org/4/425cc8d07765a5882d65d8f2c64a4ad8',
+      'https://budgetezy.org/4/6c19e930d06a8b033d16ac0558ac33f4',
+      'https://araplhn.org/4/db09c2bc22c5e031fbb5511def177188',
+      'https://arwf.org/4/ff5cfdc9d2604bff8469adde55412cd9',
+      'https://araplhn.org/4/0177fe9673729a9688b2d1f55e84c42b'
+    ];
+    var KEY = 'achroma-ad-smartlink-i';
+    // HilltopAds direct link (mainstream): only for visitors whose network
+    // reaches none of Adsterra's domains (e.g. Securly, Blocksi AI block all six).
+    var FALLBACK = [
+      'https://fluffy-machine.com/OGkiTq',
+      'https://fluffy-machine.com/w018QI',
+      'https://fluffy-machine.com/kj4VfJ',
+      'https://fluffy-machine.com/wOjhHq',
+      'https://fluffy-machine.com/NrUJ68',
+      'https://fluffy-machine.com/TblCNE'
+    ];
+    function hostOf(u) { return u.split('/')[2]; }
+    var reach = null;      // host -> true/false as each check finishes (filled in progressively)
+    var reachDone = false; // every domain has answered or timed out
+    function count(k) {
+      try { fetch('/api/rt/e', { method: 'POST', body: k, keepalive: true, credentials: 'omit', headers: { 'Content-Type': 'text/plain' } }).catch(function () {}); } catch (e) { /* ads only */ }
+    }
+    count('page');
+    // One ad per site open, on the first real click. Clicks inside our own
+    // same-origin frames (games, pages, the proxy) count too: they never reach
+    // this document otherwise. Cross-origin frames can't be listened to.
+    // Up to 2 ads per site open: the first real click, then the first real
+    // click 30+ minutes after that (everyone since 2026-11-20).
+    var SECOND_AFTER = 30 * 60 * 1000;
+    var second = true;
+    var opened = 0, lastOpen = 0;
+    var done = false;
+    var hooked = [];
+    var mo = null;
+    function unhook() {
+      for (var j = 0; j < hooked.length; j++) { try { hooked[j].removeEventListener('click', onClick, true); } catch (e) { /* frame gone */ } }
+      hooked = [];
+      if (mo) mo.disconnect();
+    }
+    function onClick(e) {
+      if (done || !e.isTrusted) return;
+      if (opened === 1 && Date.now() - lastOpen < SECOND_AFTER) return;
+      opened++;
+      lastOpen = Date.now();
+      if (opened >= (second ? 2 : 1)) { done = true; unhook(); }
+      // A new browser starts at a random link, so traffic spreads evenly over all of them instead of
+      // piling onto the first few; after that it rotates, so nobody gets the same one twice running.
+      // Once the reachability check is in, only links on domains that loaded here are used.
+      var pool = LINKS, via = '';
+      if (reach) {
+        // An Adsterra domain is used as soon as it has answered; Hilltop only once
+        // every Adsterra domain has failed, so a slow check never sends people there early.
+        var mine = LINKS.filter(function (u) { return reach[hostOf(u)] === true; });
+        var adsPending = LINKS.some(function (u) { return reach[hostOf(u)] === undefined; });
+        var fb = FALLBACK.filter(function (u) { return reach[hostOf(u)] === true; });
+        if (mine.length) pool = mine;
+        else if (!adsPending && fb.length) { pool = fb; via = 'smart:hilltop'; }
+        else if (reachDone) via = 'smart:noreach';
+      }
+      var i = 0;
+      var rnd = Math.floor(Math.random() * pool.length);
+      try {
+        var saved = localStorage.getItem(KEY);
+        var n = saved === null ? rnd : (Number(saved) || 0);
+        i = n % pool.length;
+        localStorage.setItem(KEY, String((n + 1) % 1000000));
+      } catch (err) { i = rnd; }
+      var LINK = pool[i];
+      // Opened without noopener so a blocked popup shows up as null; the link
+      // back to this page is cut straight away (same isolation as noopener).
+      var w = null;
+      try { w = window.open(LINK, '_blank'); } catch (err) { w = null; }
+      if (w) { try { w.opener = null; } catch (err) { /* already isolated */ } count(opened === 1 ? 'smart:open' : 'smart:open2'); } else count(opened === 1 ? 'smart:blocked' : 'smart:blocked2');
+      if (e.view && e.view !== window) count('smart:frame');
+      if (via && w) count(via);
+    }
+    function hook(doc) {
+      if (done || !doc || hooked.indexOf(doc) >= 0) return;
+      try { doc.addEventListener('click', onClick, true); hooked.push(doc); } catch (e) { /* not ours */ }
+    }
+    function hookFrame(f) {
+      function tryHook() {
+        if (done) return;
+        try {
+          var d = f.contentDocument;
+          if (d) { hook(d); var inner = d.getElementsByTagName('iframe'); for (var k = 0; k < inner.length; k++) hookFrame(inner[k]); }
+        } catch (e) { /* cross-origin frame */ }
+      }
+      tryHook();
+      try { f.addEventListener('load', tryHook); } catch (e) { /* ignore */ }
+    }
+    hook(document);
+    function scan(node) {
+      if (!node || node.nodeType !== 1) return;
+      if (node.tagName === 'IFRAME') hookFrame(node);
+      else if (node.getElementsByTagName) { var fs = node.getElementsByTagName('iframe'); for (var k = 0; k < fs.length; k++) hookFrame(fs[k]); }
+    }
+    try {
+      mo = new MutationObserver(function (list) {
+        for (var a = 0; a < list.length; a++) for (var b = 0; b < list[a].addedNodes.length; b++) scan(list[a].addedNodes[b]);
+      });
+      mo.observe(document.documentElement, { childList: true, subtree: true });
+    } catch (e) { /* old browser */ }
+    scan(document.documentElement);
+    // Which ad domains load on this network (everyone, shortly after load): the
+    // click then only opens links that can actually show. Counters: 20% sample.
+    if (window.fetch && window.AbortController) {
+      setTimeout(function () {
+        var all = LINKS.concat(FALLBACK).map(hostOf).filter(function (h, k, arr) { return arr.indexOf(h) === k; });
+        var got = {}, left = all.length, sample = Math.random() < 0.2;
+        reach = got;
+        all.forEach(function (d) {
+          var ctl = new AbortController();
+          var t = setTimeout(function () { ctl.abort(); }, 4000);
+          fetch('https://' + d + '/favicon.ico?' + Date.now(), { mode: 'no-cors', cache: 'no-store', credentials: 'omit', signal: ctl.signal })
+            .then(function () { got[d] = true; }, function () { got[d] = false; })
+            .then(function () {
+              clearTimeout(t);
+              if (--left) return;
+              reachDone = true;
+              if (!sample) return;
+              var ads = LINKS.map(hostOf).filter(function (h, k, arr) { return arr.indexOf(h) === k; });
+              var ok = ads.filter(function (h) { return got[h]; }).length;
+              count(ok === ads.length ? 'reach:all' : ok ? 'reach:some' : 'reach:none');
+              if (!ok && FALLBACK.some(function (u) { return got[hostOf(u)]; })) count('reach:hilltop');
+            });
+        });
+      }, 1500);
+    }
+  })();
+]]></script></body></html></foreignObject></svg>
